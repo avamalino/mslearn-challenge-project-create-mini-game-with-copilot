@@ -1,6 +1,6 @@
+
 #create a function to receive voice input
-#use the speech_recognition library
-#use the microphone to listen for a command
+#use the speech_recognition library#use the microphone to listen for a command
 #convert the audio to text
 #return the text
 #use the text to play the game
@@ -69,5 +69,3 @@ def repeat_game(text):
         return True
     else:
         return False
-
-    
